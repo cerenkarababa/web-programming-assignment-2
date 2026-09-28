@@ -17,3 +17,4 @@ The main challenge was using the same HTML structure for two different layouts. 
 I also used `white-space: nowrap` in Style B so the first five boxes stay on the same line.
 
 No JavaScript or external libraries were used.
+I tried to keep the code simple and easy to understand.
